@@ -4,9 +4,12 @@
 
 I'm Leonardo, I study Software Engineering at Escuela Colombiana de ingeniería Julio Garavito, I live in Bogotá, Colombia.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ersocaut&count_private=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ersocaut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ersocaut&count_private=true&theme=tokyonight">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ersocaut">
+</a>
 
 ## What've I done?
 
